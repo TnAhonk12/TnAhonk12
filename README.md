@@ -1,7 +1,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Everyone%F0%9F%91%8B;Im+Aulia+Fathurohman" alt="Typing SVG" /></a>
 </h1>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TnAhonk12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
