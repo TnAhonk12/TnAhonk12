@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aulia Fathurohman and I'm a Programmer</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&pause=1000&width=435&lines=Hello+Everyone%F0%9F%99%8C;Im+Aulia+Fathurohman" alt="Typing SVG" /></a>
 
 ###
 
