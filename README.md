@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TnAhonk12/TnAhonk12/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/TnAhonk12/TnAhonk12/output/snake.svg" alt="Snake animation" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TnAhonk12/TnAhonk12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TnAhonk12/TnAhonk12/output/pacman-contribution-graph.svg">
